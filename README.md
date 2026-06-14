@@ -41,7 +41,7 @@
 
 ```typescript
 const Sahil = {
-  role        : "AI Engineer · Full-Stack Developer · Quantitative Researcher",
+  role        : "AI Engineer · SDE · Quantitative Researcher",
   education   : "B.Tech CSE @ RGIPT (2024–2028)",
   affiliation : "AI Research Intern @ IIT Ropar – VLED Lab",
   expertise   : ["Machine Learning", "Deep Learning", "Algorithmic Trading",
@@ -51,7 +51,7 @@ const Sahil = {
 };
 ```
 
-I'm a **Computer Science undergraduate** at RGIPT with an intense focus on the intersection of **artificial intelligence, quantitative finance, and full-stack product engineering**. My work spans production AI/ML systems, high-frequency trading infrastructure, real-time aerospace telemetry dashboards, and enterprise-grade web platforms.
+I'm a **Computer Science undergraduate** at RGIPT with an intense focus on the intersection of **artificial intelligence, quantitative finance, and software development **. My work spans production AI/ML systems, high-frequency trading infrastructure, real-time aerospace telemetry dashboards, and enterprise-grade web platforms.
 
 I operate at the boundary between research and deployment — turning academic models into systems that run at scale. Whether it's a **ResNet50 brain tumor classifier achieving 99.3% accuracy**, an **HFT algorithmic trading bot** integrating 8+ strategies, or an **MCP-enabled AI lab pipeline** at IIT Ropar, I build things that work in the real world.
 
@@ -123,7 +123,7 @@ Engineered an NLP pipeline using LangChain and GPT for market sentiment analysis
 ---
 
 <details>
-<summary><b>🧠 Brain Tumor Detection</b> — Medical AI with 99.3% Accuracy</summary>
+<summary><b> Brain Tumor Detection</b> — Medical AI with 99.3% Accuracy</summary>
 
 <br>
 
@@ -167,7 +167,7 @@ Integrated a Three.js 3D attitude viewer for live orientation visualization and 
 ---
 
 <details>
-<summary><b>🔬 Monte Carlo Options Universe</b> — Quantitative Risk Engine</summary>
+<summary><b>Monte Carlo Options Universe</b> — Quantitative Risk Engine</summary>
 
 <br>
 
@@ -189,7 +189,7 @@ Reduced manual modeling time for quantitative researchers by enabling real-time 
 ---
 
 <details>
-<summary><b>🏥 QuestAI — AI-Powered Assessment Platform</b> — EdTech Full-Stack</summary>
+<summary><b>QuestAI — AI-Powered Assessment Platform</b> — EdTech Full-Stack</summary>
 
 <br>
 
@@ -211,7 +211,7 @@ Architected with Zustand state management and deployed to Vercel, featuring PDF 
 ---
 
 <details>
-<summary><b>🎫 TicketVerse — All-in-One Ticket Booking Platform</b> — Full-Stack Commerce</summary>
+<summary><b> TicketVerse — All-in-One Ticket Booking Platform</b> — Full-Stack Commerce</summary>
 
 <br>
 
@@ -233,7 +233,7 @@ Designed a scalable REST API backend with PostgreSQL handling the full booking l
 ---
 
 <details>
-<summary><b>📊 3D Order Book Liquidity Simulator</b> — Market Microstructure Lab</summary>
+<summary><b>3D Order Book Liquidity Simulator</b> — Market Microstructure Lab</summary>
 
 <br>
 
@@ -253,7 +253,7 @@ A production-grade market microstructure research tool simulating a fully functi
 ---
 
 <details>
-<summary><b>📈 Spectral Market Decomposition Engine</b> — Signal Processing for Finance</summary>
+<summary><b> Spectral Market Decomposition Engine</b> — Signal Processing for Finance</summary>
 
 <br>
 
@@ -273,7 +273,7 @@ A production-level application applying rolling-window Fast Fourier Transform to
 ---
 
 <details>
-<summary><b>🎭 AI Face Emotion & Persona Overlay</b> — Real-Time Computer Vision</summary>
+<summary><b> AI Face Emotion & Persona Overlay</b> — Real-Time Computer Vision</summary>
 
 <br>
 
@@ -293,7 +293,7 @@ A real-time facial emotion inference system combining MediaPipe Face Mesh with a
 ---
 
 <details>
-<summary><b>🚨 Abandoned Object Detection API</b> — Smart Surveillance</summary>
+<summary><b> Abandoned Object Detection API</b> — Smart Surveillance</summary>
 
 <br>
 
@@ -313,7 +313,7 @@ A real-time surveillance REST API for detecting unattended objects in public spa
 ---
 
 <details>
-<summary><b>💰 BTC Price Prediction</b> — Time-Series Forecasting</summary>
+<summary><b> BTC Price Prediction</b> — Time-Series Forecasting</summary>
 
 <br>
 
@@ -335,7 +335,7 @@ Bitcoin price forecasting using a comprehensive suite of classical and hybrid ti
 ## 〈 Professional Experience 〉
 
 <details>
-<summary><b>🔬 AI Research and Development Intern</b> — Indian Institute of Technology (IIT) Ropar · VLED Lab</summary>
+<summary><b> AI Research and Development Intern</b> — Indian Institute of Technology (IIT) Ropar · VLED Lab</summary>
 
 <br>
 
@@ -357,7 +357,7 @@ Working within the VLED Lab at IIT Ropar on open-source AI/ML research infrastru
 ---
 
 <details>
-<summary><b>🐍 Python Developer Intern</b> — The Skybrisk</summary>
+<summary><b> Python Developer Intern</b> — The Skybrisk</summary>
 
 <br>
 
@@ -378,7 +378,7 @@ Delivered production-ready Python modules under a 1-month intensive internship s
 ---
 
 <details>
-<summary><b>🛰️ Aerospace Technology Summer Research Intern</b> — India Space Lab</summary>
+<summary><b>Aerospace Technology Summer Research Intern</b> — India Space Lab</summary>
 
 <br>
 
@@ -400,7 +400,7 @@ Contributed to drone telemetry and remote sensing research for the Space Week re
 ---
 
 <details>
-<summary><b>🌐 Web Development Specialist Intern</b> — Sysslan IT Solutions</summary>
+<summary><b> Web Development Specialist Intern</b> — Sysslan IT Solutions</summary>
 
 <br>
 
@@ -468,9 +468,7 @@ AI-powered credit risk analytics · Agentic AI collections strategy · EDA for f
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00ea64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
 
@@ -492,14 +490,6 @@ AI-powered credit risk analytics · Agentic AI collections strategy · EDA for f
 </div>
 
 ---
-
-## 〈 GitHub Trophies 〉
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sahhhiiillllll&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
