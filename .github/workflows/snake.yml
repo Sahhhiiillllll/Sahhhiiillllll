@@ -14,7 +14,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          svg_path: "github-contribution-grid-snake.svg"
-          branch: "output"
-          commit_message: "Update contribution snake SVG"
-          # The action will generate the SVG and commit to the output branch
+          github_user_name: 'Sahhhiiillllll'
+          outputs: |
+            github-contribution-grid-snake.svg:
+              # default options
+          # The action will generate the SVG and commit to the current branch
