@@ -12,7 +12,6 @@
 
 <div align="center">
 
-![RGIPT](https://img.shields.io/badge/RGIPT-B.Tech%20CSE%202024--28-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![JEE](https://img.shields.io/badge/JEE%20Advanced-Top%201.1%25-4f46e5?style=for-the-badge&logo=target&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Haryana%2C%20India-7c3aed?style=for-the-badge&logoColor=white)
 
@@ -20,7 +19,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Sahhhiiillllll)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sandy-ten-em8p7qk4nl.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahhhiiillllll)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahhhiiillllll@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahhhiiillllll)
@@ -51,7 +50,7 @@ const Sahil = {
 };
 ```
 
-I'm a **Computer Science undergraduate** at RGIPT with an intense focus on the intersection of **artificial intelligence, quantitative finance, and software development **. My work spans production AI/ML systems, high-frequency trading infrastructure, real-time aerospace telemetry dashboards, and enterprise-grade web platforms.
+**Computer Science undergraduate student** at RGIPT with an intense focus on the intersection of **artificial intelligence, quantitative finance, and software development **. My work spans production AI/ML systems, high-frequency trading infrastructure, real-time aerospace telemetry dashboards, and enterprise-grade web platforms.
 
 I operate at the boundary between research and deployment — turning academic models into systems that run at scale. Whether it's a **ResNet50 brain tumor classifier achieving 99.3% accuracy**, an **HFT algorithmic trading bot** integrating 8+ strategies, or an **MCP-enabled AI lab pipeline** at IIT Ropar, I build things that work in the real world.
 
@@ -93,49 +92,6 @@ I operate at the boundary between research and deployment — turning academic m
 | **MLOps & Deployment** | ██████████░░ 85% | FastAPI, Flask, Docker, Vercel, Streamlit, REST APIs |
 | **Data Science** | ████████████ 95% | pandas, NumPy, Matplotlib, Scikit-learn, Statistical Modeling |
 | **Remote Sensing** | ████████░░░░ 70% | Drone Telemetry, Spatial Pipelines, Sensor Data Processing |
-
-</div>
-
----
-
-## 〈 Achievements 〉
-
-<div align="center">
-
-| 🏆 Recognition | Details |
-|:---:|:---|
-| **JEE Advanced Top 1.1%** | Qualified JEE Mains & Advanced — top percentile among 1M+ candidates nationwide |
-| **IIT Ropar Research Internship** | Selected for AI/ML research at the prestigious VLED Lab, IIT Ropar |
-| **99.3% Model Accuracy** | Brain Tumor Detection with ResNet50 on 3,064 CE-MRI clinical scans |
-| **30% Integration Time Reduction** | MCP tooling adoption at IIT Ropar VLED Lab reduced inter-component overhead |
-| **8+ Strategy HFT System** | Production-grade quant trading bot with C++ execution engine & LLM integration |
-| **Multi-Internship @ Year 1** | Secured 4 concurrent internships in AI research, aerospace, Python, and web dev |
-| **10,000+ Monte Carlo Paths** | Real-time options risk engine for quantitative finance research |
-| **Goldman Sachs Job Simulation** | Completed GS Operations Analyst simulation — Forage verified credential |
-
-</div>
-
----
-
-## 〈 Certifications 〉
-
-<div align="center">
-
-**Goldman Sachs**
-
-![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Operations%20Job%20Simulation-00a3e0?style=for-the-badge&logo=goldmansachs&logoColor=white)
-
-`Credential ID: p8xENWfNvrwdp9rAq` · **2026**
-Operations Analyst simulation · Trade lifecycle management · High-net-worth client asset servicing · Cross-functional regulatory compliance
-
----
-
-**Tata iQ**
-
-![Tata](https://img.shields.io/badge/Tata%20iQ-GenAI%20Data%20Analytics%20Simulation-0052cc?style=for-the-badge&logo=tata&logoColor=white)
-
-`Credential ID: cmf77YyZmbsZhP8fp` · **2026**
-AI-powered credit risk analytics · Agentic AI collections strategy · EDA for financial services · Ethical AI & regulatory compliance
 
 </div>
 
@@ -234,7 +190,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-sahhhiiillllll%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahhhiiillllll@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahhhiiillllll-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahhhiiillllll)
 [![GitHub](https://img.shields.io/badge/GitHub-Sahhhiiillllll-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahhhiiillllll)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Sahhhiiillllll)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sandy-ten-em8p7qk4nl.vercel.app)
 
 </div>
 
