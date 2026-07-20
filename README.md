@@ -14,29 +14,8 @@
 
 </div>
 
-<div align="center">
 
-![JEE](https://img.shields.io/badge/JEE%20Advanced-Top%201.1%25-4f46e5?style=for-the-badge&logo=target&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Haryana%2C%20India-7c3aed?style=for-the-badge&logoColor=white)
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sandy-ten-em8p7qk4nl.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahhhiiillllll)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahhhiiillllll@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahhhiiillllll)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sahhhiiillllll&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Sahhhiiillllll?style=for-the-badge&color=7c3aed&logo=github&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Sahhhiiillllll?style=for-the-badge&color=4f46e5&logo=github&label=STARS)
-
-</div>
 
 ---
 
@@ -44,7 +23,7 @@
 
 ```typescript
 const Sahil = {
-  role        : "AI Engineer · SDE · Quantitative Researcher",
+  role        : "AI Researcher · SDE · Quantitative Researcher",
   education   : "B.Tech CSE @ RGIPT (2024–2028)",
   affiliation : "AI Research Intern @ IIT Ropar – VLED Lab",
   expertise   : ["Machine Learning", "Deep Learning", "Algorithmic Trading",
@@ -112,14 +91,7 @@ I operate at the boundary between research and deployment — turning academic m
 
 ---
 
-## 〈 GitHub Analytics 〉
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahhhiiillllll&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=6d28d9&text_color=c4b5fd&ring_color=4f46e5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahhhiiillllll&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd"/>
-
-</div>
 
 <div align="center">
 
@@ -141,19 +113,7 @@ I operate at the boundary between research and deployment — turning academic m
 
 ---
 
-## 〈 Contribution Snake 〉
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahhhiiillllll/Sahhhiiillllll/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahhhiiillllll/Sahhhiiillllll/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sahhhiiillllll/Sahhhiiillllll/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ## 〈 Current Focus 〉
 
