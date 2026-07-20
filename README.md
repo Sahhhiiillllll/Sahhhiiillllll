@@ -107,7 +107,7 @@ I operate at the boundary between research and deployment — turning academic m
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahhhiiillllll&bg_color=0d0d1a&color=7c3aed&line=6d28d9&point=c4b5fd&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sahhhiiillllll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahhhiiillllll&bg_color=0d0d1a&color=7c3aed&line=6d28d9&point=c4b5fd&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -115,35 +115,8 @@ I operate at the boundary between research and deployment — turning academic m
 
 
 
-## 〈 Current Focus 〉
 
-```yaml
-current_focus:
-  learning:
-    - Advanced Reinforcement Learning for Trading Agents
-    - Large Language Model fine-tuning and alignment techniques
-    - Low-latency systems programming in C++ for HFT infrastructure
-    - Distributed systems design and microservice architecture
-
-  building:
-    - AI-powered quantitative research tooling at IIT Ropar VLED Lab
-    - Production Python systems at The Skybrisk
-    - Open-source MCP integrations for standardized AI model interfaces
-    - Full-stack AI applications with Next.js and FastAPI
-
-  exploring:
-    - Market microstructure theory and order flow analytics
-    - Neuromorphic computing and edge AI deployment
-    - Spectral methods for financial signal decomposition
-    - Agentic AI frameworks for autonomous decision-making
-
-  open_to:
-    - AI/ML Research Internships (industry and academic)
-    - Quantitative Finance and Algorithmic Trading Roles
-    - Full-Stack Engineering Positions
-    - Open Source Research Collaboration
-    - Technical Mentorship and Knowledge Exchange
-```
+    
 
 ---
 
