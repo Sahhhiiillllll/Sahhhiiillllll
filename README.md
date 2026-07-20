@@ -34,23 +34,6 @@ const Sahil = {
 ```
 
 
-## 〈 Tech Stack 〉
-
-<div align="center">
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,dart,html,css,sql&theme=dark)](https://skillicons.dev)
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark)](https://skillicons.dev)
-
-### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgresql,redis&theme=dark)](https://skillicons.dev)
-
-### Cloud, DevOps & Tooling
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,github,vercel,vscode,pycharm&theme=dark)](https://skillicons.dev)
-
-</div>
 
 ---
 
