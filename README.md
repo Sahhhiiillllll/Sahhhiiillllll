@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=Sahil&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Quant%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahhhiiillllll/Sahhhiiillllll/main/assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahhhiiillllll/Sahhhiiillllll/main/assets/light.svg">
+  <img alt="Sahil" src="https://raw.githubusercontent.com/Sahhhiiillllll/Sahhhiiillllll/main/assets/dark.svg" width="100%">
+</picture>
 
 </div>
 
