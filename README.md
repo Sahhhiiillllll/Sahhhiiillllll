@@ -33,13 +33,6 @@ const Sahil = {
 };
 ```
 
-**Computer Science undergraduate student** at RGIPT with an intense focus on the intersection of **artificial intelligence, quantitative finance, and software development **. My work spans production AI/ML systems, high-frequency trading infrastructure, real-time aerospace telemetry dashboards, and enterprise-grade web platforms.
-
-I operate at the boundary between research and deployment — turning academic models into systems that run at scale. Whether it's a **ResNet50 brain tumor classifier achieving 99.3% accuracy**, an **HFT algorithmic trading bot** integrating 8+ strategies, or an **MCP-enabled AI lab pipeline** at IIT Ropar, I build things that work in the real world.
-
-**Currently open to:** AI/ML Research Roles · Quantitative Finance Internships · Full-Stack Engineering Positions · Open Source Collaboration · Research Partnerships
-
----
 
 ## 〈 Tech Stack 〉
 
