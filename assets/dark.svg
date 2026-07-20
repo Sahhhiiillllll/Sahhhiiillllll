@@ -191,11 +191,11 @@
       </text>
       <text x="502" y="168" fill="#F8FAFC" opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.60;0.63;0.77;0.79;1" calcMode="discrete" dur="25s" repeatCount="indefinite"/>
-        <tspan fill="#22D3EE">&gt;</tspan> MCP Research Intern
+        <tspan fill="#22D3EE">&gt;</tspan> AI Research Intern
       </text>
       <text x="502" y="168" fill="#F8FAFC" opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.80;0.83;0.97;0.99;1" calcMode="discrete" dur="25s" repeatCount="indefinite"/>
-        <tspan fill="#22D3EE">&gt;</tspan> Algo Trading Enthusiast
+        <tspan fill="#22D3EE">&gt;</tspan> Quantitative Researcher
       </text>
       <rect x="820" y="155" width="9" height="17" fill="#22D3EE">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
